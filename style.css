@@ -1,0 +1,22 @@
+body{
+  background-color: orange;
+}
+p,h1{
+   text-align: center;
+}
+            /* unvisited link */
+            a:link{
+                color: rosybrown;
+            }
+            /* visited link */
+            a:visited{
+                color:darkgreen;
+            }
+            /* mouse over link */
+            a:hover{
+                color: darkred;
+            }
+            /* selected link */
+            a:active{
+                color: blue;
+            }
